@@ -1,6 +1,8 @@
 # Digital-Die
 This is my first project that is not proprietary. It was created to show off some of my skills with soldering, programming, and 3D printing. I have no intention to market or distribute copies.
 
+I apologize for the lack of commenting on the arduino IDE file. I will get back to it when I get a chance.
+
 **Please be careful if you choose to replicate this project as it contains pieces that can be harmful if not installed properly.**
 
 Parts list: 
